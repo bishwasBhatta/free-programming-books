@@ -428,6 +428,7 @@
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict (YouTube)
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains (Youtube)
+* [Full-stack open course including React, NodeJS, Express, Redux, GraphQL and React Native] (https://fullstackopen.com/en/) - University of Helsinki
 
 
 #### React
@@ -440,6 +441,7 @@
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
+* [Full-stack open course including React, NodeJS, Express, Redux, GraphQL and React Native] (https://fullstackopen.com/en/) - University of Helsinki
 
 
 #### React Native
